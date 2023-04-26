@@ -8,5 +8,6 @@ Here is the website running on AWS:
 
 
  - Still need to add AWS WAF to the App
- - We can also put the diagram here:
-
+ 
+AWS WAF diagram:
+![Comp 312_ AWS diagram](https://user-images.githubusercontent.com/70118168/234660732-f72f5e71-beb5-45b3-9dbd-139cf8626c20.jpeg)
