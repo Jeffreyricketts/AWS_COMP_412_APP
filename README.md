@@ -1,4 +1,4 @@
-# AWS_COMP_412_APP
+# AWS_COMP_412_WEB_APP
 Web App using AWS. Focus on Cyber Security
 
 Here is the website link for the app: https://www.awslondonquotes.com/
