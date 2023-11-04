@@ -1,5 +1,5 @@
-# AWS_COMP_412_WEB_APP
-Web App using AWS. Focus on Cyber Security
+# AWS_WAF_WEB_APP
+Web App using AWS. Focused on Cyber Security, utilizing AWS WAF
 
 Here is the website link for the app: https://www.awslondonquotes.com/
 
